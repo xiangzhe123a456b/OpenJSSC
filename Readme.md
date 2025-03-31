@@ -1,8 +1,30 @@
 # Video demo
 https://github.com/user-attachments/assets/25a25a4b-6309-4409-b728-e7a0ab6189ee
 # Abstrast
-As communication systems transition from symbol transmission to conveying meaningful information, sixth-generation (6G) networks emphasize semantic communication. This approach prioritizes high-level semantic information, improving robustness and reducing redundancy across modalities like text, speech, and images. However, traditional semantic communication faces limitations, including static coding strategies, poor generalization, and reliance on task-specific knowledge bases that hinder adaptability.
-To overcome these challenges, we propose a novel system combining scene understanding, Large Language Models (LLMs), and open channel coding, named \textbf{OpenSC}. Traditional systems rely on fixed domain-specific knowledge bases, limiting their ability to generalize. Our open channel coding approach leverages shared, publicly available knowledge, enabling flexible, adaptive encoding. This dynamic system reduces reliance on static task-specific data, enhancing adaptability across diverse tasks and environments. Additionally, we use scene graphs for structured semantic encoding, capturing object relationships and context to improve tasks like Visual Question Answering (VQA). Our approach selectively encodes key semantic elements, minimizing redundancy and improving transmission efficiency. Experimental results show significant improvements in both semantic understanding and efficiency, advancing the potential of adaptive, generalizable semantic communication in 6G networks.
+As communication systems evolve beyond simple symbol
+transmission, 6G networks prioritize semantic communica-
+tion to improve robustness and reduce redundancy across
+text, speech, and images. However, existing approaches rely
+on static coding strategies and task-specific knowledge bases,
+limiting adaptability in dynamic environments. Traditional
+semantic communication for scene understanding encodes
+entire images without extracting meaningful representations,
+leading to inefficiencies and inconsistencies. Furthermore,
+sender-receiver knowledge misalignment due to localized
+knowledge bases hinders accurate semantic interpretation.
+To overcome these challenges, we introduce Open Joint
+Source-Channel Coding (OpenJSCC)—a novel framework
+that integrates structured semantic representations with task-
+aware knowledge base construction. Unlike conventional
+methods that focus on low-level feature encoding, Open-
+JSCC leverages large language models (LLMs) and scene
+graph generation to capture object relationships and contex-
+tual semantics, enhancing visual-textual reasoning in tasks
+like visual question answering (VQA). Experimental results
+demonstrate that OpenJSCC enhances both transmission
+efficiency and semantic accuracy, outperforming existing
+communication methods in VQA tasks across simulated and
+real-world environments..
 # Introduction
 ![figure 4](https://github.com/user-attachments/assets/74b2c32f-b95f-4b2b-aa53-8f4a85514dd5)
 # Framework
