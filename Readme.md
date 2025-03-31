@@ -1,4 +1,4 @@
-# Video dem
+# Video demo
 https://github.com/user-attachments/assets/25a25a4b-6309-4409-b728-e7a0ab6189ee
 # Abstrast
 As communication systems transition from symbol transmission to conveying meaningful information, sixth-generation (6G) networks emphasize semantic communication. This approach prioritizes high-level semantic information, improving robustness and reducing redundancy across modalities like text, speech, and images. However, traditional semantic communication faces limitations, including static coding strategies, poor generalization, and reliance on task-specific knowledge bases that hinder adaptability.
