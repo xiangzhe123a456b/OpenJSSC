@@ -6,8 +6,7 @@ To overcome these challenges, we propose a novel system combining scene understa
 # Framework
 ![figure2 (1)](https://github.com/user-attachments/assets/bf28610e-4f8d-4766-b496-5a35288423f7)
 # Video demo
-![pi-figure](https://github.com/user-attachments/assets/acdb9ad6-4482-4b06-8c3e-b9b57decf3d3)
-Video Coming soon
+https://github.com/user-attachments/assets/d1e025b9-410e-4f08-98cb-cc07daf75ef2
 # Experiment
 ![9e91f058edfe4fb3a9374d527d3bd0f](https://github.com/user-attachments/assets/2d4a4871-fab8-4726-8d94-84eb1f70969c)
 ![7b62b41955f1dfadcaf20fc5c53de60](https://github.com/user-attachments/assets/618ab6e3-4c34-48b9-be29-fde18da887ab)
