@@ -1,10 +1,8 @@
 # Video demo
 https://github.com/user-attachments/assets/25a25a4b-6309-4409-b728-e7a0ab6189ee
 # Abstrast
-As communication systems evolve beyond simple symbol
-transmission, 6G networks prioritize semantic communica-
-tion to improve robustness and reduce redundancy across
-text, speech, and images. However, existing approaches rely
+As communication systems evolve beyond simple symbol transmission, 
+6G networks prioritize semantic communication to improve robustness and reduce redundancy across text, speech, and images. However, existing approaches rely
 on static coding strategies and task-specific knowledge bases,
 limiting adaptability in dynamic environments. Traditional
 semantic communication for scene understanding encodes
