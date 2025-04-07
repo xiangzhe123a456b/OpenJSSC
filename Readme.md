@@ -8,7 +8,8 @@ that integrates structured semantic representations with task aware knowledge ba
 
 
 # Framework
-![figure2 (1)](https://github.com/user-attachments/assets/bf28610e-4f8d-4766-b496-5a35288423f7)
+<img src="https://github.com/user-attachments/assets/bf28610e-4f8d-4766-b496-5a35288423f7" width="1024px">
+
 # Experiment
 ![9e91f058edfe4fb3a9374d527d3bd0f](https://github.com/user-attachments/assets/2d4a4871-fab8-4726-8d94-84eb1f70969c)
 ![7b62b41955f1dfadcaf20fc5c53de60](https://github.com/user-attachments/assets/618ab6e3-4c34-48b9-be29-fde18da887ab)
