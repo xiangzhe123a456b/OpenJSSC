@@ -6,8 +6,10 @@ that integrates structured semantic representations with task aware knowledge ba
 # Introduction
 <img src="https://github.com/user-attachments/assets/74b2c32f-b95f-4b2b-aa53-8f4a85514dd5" width="1024px">
 Key Problems: (1):How to achieve multimodal semantic fusion that enhances interpretable visual-textual reasoning while maintaining transmission efficiency?  
-              (2):How to design dynamic channel coding mechanisms to eliminate dependency on static knowledge bases?
-              (3):How to balance semantic compression and transmission robustness through joint optimization in complex environments?
+
+              (2):How to design dynamic channel coding mechanisms to eliminate dependency on static knowledge bases?       
+              
+              (3):How to balance semantic compression and transmission robustness through joint optimization in complex environments?   
 
 # Framework
 <img src="https://github.com/user-attachments/assets/bf28610e-4f8d-4766-b496-5a35288423f7" width="1024px">
