@@ -14,7 +14,7 @@ that integrates structured semantic representations with task aware knowledge ba
               (1):How to achieve multimodal semantic fusion that enhances interpretable visual-textual reasoning while maintaining transmission efficiency?     
               (2):How to design dynamic channel coding mechanisms to eliminate dependency on static knowledge bases?   
               (3):How to balance semantic compression and transmission robustness through joint optimization in complex environments?     
-
+-------
 # Framework
 <img src="https://github.com/user-attachments/assets/bf28610e-4f8d-4766-b496-5a35288423f7" width="1024px">
 
@@ -40,4 +40,9 @@ that integrates structured semantic representations with task aware knowledge ba
 
 **Average number of symbols transmitted by each method.**
 -------
+<img src="https://github.com/user-attachments/assets/58cf2cac-acd4-45bf-8024-e8ad83149d03" width="1024px">
+
+**Comparison of our method and baselines for VQA on an image from the AUG dataset.**
+-------
+
 
