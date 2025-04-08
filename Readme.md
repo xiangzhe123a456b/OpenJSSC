@@ -26,11 +26,16 @@ that integrates structured semantic representations with task aware knowledge ba
 **The architecture of the scene understanding orient semantic communication prototype platform.**
 # Experiment
 <img src="https://github.com/user-attachments/assets/ae5ff906-df19-4d4a-abae-629c9c235e0d" width="1024px">
+
 **Comparison of communication performance between a traditional communication method (JPEG+LDPC) and our OpenJSCC scheme in real-world scenarios**  
 
 <img src="https://github.com/user-attachments/assets/af6067a3-a90b-4512-8e96-ba71ebfdbbbc" width="1024px">
-**Performance comparison when different models are used as VQA-LLM**
 
-![7b62b41955f1dfadcaf20fc5c53de60](https://github.com/user-attachments/assets/618ab6e3-4c34-48b9-be29-fde18da887ab)
+**Performance comparison when different models are used as VQA-LLM.**
+
+<img src="https://github.com/user-attachments/assets/2d55d8f0-e55d-40af-95dc-7e9de432954d" width="1024px">
+
+**Average number of symbols transmitted by each method.**
+
 ![0034213cb35bded50181dcfa534cedc](https://github.com/user-attachments/assets/0425d5f4-5b5b-498a-85c5-d829c5c7a693)
 
